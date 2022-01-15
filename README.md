@@ -1,3 +1,3 @@
 <h1>URI em C</h1>
 
-Aqui estão códigos, em C, de exercícios do URI.
+<p>Aqui estão códigos, em <strong>C</strong>, de exercícios do <strong>URI</strong>.</p>
